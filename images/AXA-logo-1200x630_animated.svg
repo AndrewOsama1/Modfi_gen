@@ -1,0 +1,27 @@
+<!--?xml version="1.0" standalone="no"?-->
+
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="1200.000000pt" height="630.000000pt" viewBox="0 0 1200.000000 630.000000" preserveAspectRatio="xMidYMid meet" style="">
+
+<g transform="translate(0.000000,630.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
+<path d="M4370 3515 l0 -1306 28 33 c149 173 660 855 698 931 l35 68 117 -3
+117 -3 6 -53 c4 -29 40 -161 80 -293 l74 -241 37 43 c29 34 36 49 31 69 -7 29
+-146 437 -157 463 -8 16 2 17 128 17 123 0 136 -2 136 -18 0 -9 17 -80 38
+-156 l39 -140 74 95 c114 143 127 162 134 192 l7 27 109 0 c60 0 109 -3 109
+-7 0 -4 -20 -28 -44 -53 -62 -64 -316 -389 -316 -404 0 -7 7 -34 16 -60 l16
+-47 46 58 c123 157 312 416 338 462 l29 51 110 -2 110 -3 3 -30 c9 -84 273
+-937 320 -1034 12 -25 22 -46 22 -48 0 -2 -62 -3 -139 -3 l-139 0 -6 43 c-4
+24 -33 129 -65 233 l-58 189 -225 3 -226 2 -32 -49 -32 -50 42 -133 c23 -73
+53 -154 66 -180 13 -26 24 -50 24 -53 0 -3 -60 -5 -134 -5 l-134 0 -11 48 c-5
+26 -14 58 -19 71 -8 23 -9 23 -39 -15 -16 -22 -38 -54 -49 -71 l-18 -33 -107
+0 -107 0 -7 32 c-12 57 -28 108 -35 108 -3 0 -26 -31 -51 -69 l-44 -70 -104 0
+-105 -1 31 33 c18 17 72 83 121 145 l89 114 -25 89 -26 89 -221 0 -222 0 -155
+-202 c-85 -112 -163 -218 -173 -235 -19 -32 -21 -33 -87 -33 l-68 0 0 -150 0
+-150 1500 0 1500 0 0 1500 0 1500 -1500 0 -1500 0 0 -1305z" class="BbdNnTPI_0"></path>
+<path d="M5074 2870 l-101 -135 135 -3 c74 -1 136 -1 138 1 2 1 -11 45 -27 97
+-17 52 -34 113 -38 135 l-6 40 -101 -135z" class="BbdNnTPI_1"></path>
+<path d="M6291 2959 c-18 -27 -64 -88 -102 -136 l-68 -88 136 -3 c75 -1 137
+-1 139 1 2 1 -8 39 -22 82 -14 44 -31 105 -38 136 l-11 57 -34 -49z" class="BbdNnTPI_2"></path>
+<path d="M5617 2531 l-37 -48 24 -69 c12 -38 27 -67 32 -65 5 3 23 23 40 45
+l32 41 -25 70 c-14 39 -26 71 -27 72 -1 2 -19 -19 -39 -46z" class="BbdNnTPI_3"></path>
+</g>
+<style data-made-with="vivus-instant">.BbdNnTPI_0{stroke-dasharray:23401 23403;stroke-dashoffset:23402;animation:BbdNnTPI_draw_0 7200ms linear 0ms infinite,BbdNnTPI_fade 7200ms linear 0ms infinite;}.BbdNnTPI_1{stroke-dasharray:892 894;stroke-dashoffset:893;animation:BbdNnTPI_draw_1 7200ms linear 0ms infinite,BbdNnTPI_fade 7200ms linear 0ms infinite;}.BbdNnTPI_2{stroke-dasharray:901 903;stroke-dashoffset:902;animation:BbdNnTPI_draw_2 7200ms linear 0ms infinite,BbdNnTPI_fade 7200ms linear 0ms infinite;}.BbdNnTPI_3{stroke-dasharray:532 534;stroke-dashoffset:533;animation:BbdNnTPI_draw_3 7200ms linear 0ms infinite,BbdNnTPI_fade 7200ms linear 0ms infinite;}@keyframes BbdNnTPI_draw{100%{stroke-dashoffset:0;}}@keyframes BbdNnTPI_fade{0%{stroke-opacity:1;}94.44444444444444%{stroke-opacity:1;}100%{stroke-opacity:0;}}@keyframes BbdNnTPI_draw_0{11.11111111111111%{stroke-dashoffset: 23402}49.00785939456752%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes BbdNnTPI_draw_1{49.00785939456752%{stroke-dashoffset: 893}50.4539664032474%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes BbdNnTPI_draw_2{50.4539664032474%{stroke-dashoffset: 902}51.9146478386665%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes BbdNnTPI_draw_3{51.9146478386665%{stroke-dashoffset: 533}52.77777777777778%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}</style></svg>
